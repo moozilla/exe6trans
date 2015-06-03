@@ -1,0 +1,1 @@
+A project to translate Rockman EXE 6 to English, German, and possibly other languages.
